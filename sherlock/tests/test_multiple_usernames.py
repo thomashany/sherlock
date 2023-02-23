@@ -26,4 +26,7 @@ class TestMultipleUsernames(unittest.TestCase):
             if(sh.CheckForParameter(name)):
                 self.assertAlmostEqual(sh.MultipleUsernames(name), ["test_test" , "test-test" , "test.test"])
             else:
-                self.assertAlmostEqual(name, name)
+                self.assertAlmostEqual(name,TestMultipleUsernamesmernawsely
+
+               TestMultipleUsernamesmernawsely
+                )TestMultipleUsernames
